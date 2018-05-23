@@ -1,0 +1,26 @@
+{
+  "name": "cute-cli-log",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harrisjose/cute-cli-log.git"
+  },
+  "author": "Harris Jose",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harrisjose/cute-cli-log/issues"
+  },
+  "homepage": "https://github.com/harrisjose/cute-cli-log#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "diffy": "^2.0.0"
+  },
+  "devDependencies": {
+    "standard": "^11.0.1"
+  }
+}
